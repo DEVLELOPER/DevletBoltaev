@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 📫 How to reach me: devletb@icloud.com<br>- 👨‍💻 All of my projects are available at this GitHub profile<br>- 💬 Ask me about anything, I am happy to help!</p>
+<p align="left">- 👨‍💻 All of my projects are available at this GitHub profile<br>- 💬 Ask me about anything, I am happy to help!</p>
 
 ###
 
